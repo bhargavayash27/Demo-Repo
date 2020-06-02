@@ -6,5 +6,10 @@ public class TestBase {
 	{
 		System.out.println("Test Method");
 	}
+	
+	public TestBase()
+	{
+		System.out.println("Checkout this APP");
+	}
 
 }
